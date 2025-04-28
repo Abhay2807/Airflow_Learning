@@ -12,3 +12,7 @@ Repo for Learning Everything Related to Apache Airflow
 3) BETTER PYTHON OPERATOR DAG
 
 <img width="516" alt="image" src="https://github.com/user-attachments/assets/5a68b36b-0787-4f81-a36c-7d7530fdd151" />
+
+4) XCOM DAG TABULATE
+
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/2d33a370-403c-4721-8019-10832259eaec" />
