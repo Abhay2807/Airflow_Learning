@@ -16,3 +16,7 @@ Repo for Learning Everything Related to Apache Airflow
 4) XCOM DAG TABULATE
 
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/2d33a370-403c-4721-8019-10832259eaec" />
+
+5) CRON Expression Scheduling For DAG
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/7dadbe40-435c-47a8-ab7c-44093fd96703" />
