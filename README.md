@@ -20,3 +20,7 @@ Repo for Learning Everything Related to Apache Airflow
 5) CRON Expression Scheduling For DAG
 
 <img width="670" alt="image" src="https://github.com/user-attachments/assets/7dadbe40-435c-47a8-ab7c-44093fd96703" />
+
+6) BRANCH PYTHON OPERATOR WITH CONDITIONAL CHECKS AND BRANCHING
+
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/59f3efaa-7f1b-40c2-8109-f38feff34f46" />
